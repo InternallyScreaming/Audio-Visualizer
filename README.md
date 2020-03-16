@@ -12,3 +12,5 @@ List of Controls:
 -Down Arrow: Volume down
 -Right Arrow: Speed Track
 -Left Arrow: Slow Track
+
+Due to the size of files, only the bin, src, and addons.make are included. So it is necessary to import these files into a new, empty OpenFrameworks projects.
